@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	$con=mysqli_connect("sql12.freemysqlhosting.net","sql12356786","2jYxUWS41A","sql12356786");
+	$con=mysqli_connect("sql12.freemysqlhosting.net","sql12373641","zk1hbWN4RN","sql12373641");
 	if(isset($_POST["adminEmail"]))
 	{
 		$id=$_POST["adminEmail"];
